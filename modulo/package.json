@@ -1,0 +1,23 @@
+{
+  "name": "modulo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickdeangelis/software-testing-software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickdeangelis/software-testing-software/issues"
+  },
+  "homepage": "https://github.com/patrickdeangelis/software-testing-software#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
